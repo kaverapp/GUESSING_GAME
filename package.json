@@ -1,0 +1,15 @@
+{
+  "name": "number_guessing_game",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
